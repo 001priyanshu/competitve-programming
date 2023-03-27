@@ -1,0 +1,1 @@
+{"name":"Local: hamburger","url":"c:\\Users\\priya\\OneDrive\\Desktop\\competitve-programming\\hamburger.cpp","tests":[{"id":1678708300218,"input":"BSC\n1 1 1\n1 1 3\n1000000000000","output":"200000000001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\priya\\OneDrive\\Desktop\\competitve-programming\\hamburger.cpp","group":"local","local":true}
